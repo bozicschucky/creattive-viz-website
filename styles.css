@@ -1,0 +1,41 @@
+.navbar {
+  /* background-color: aliceblue; */
+  display: flex;
+  flex-direction: row;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.right-tems {
+  /* flex-grow: 1; */
+}
+#brand {
+  /* background-color: aqua; */
+  margin-right: 900px;
+  padding: 20px;
+  font-family: "Pacifico", cursive;
+  font-size: 30px;
+
+  /* flex-grow: 2; */
+}
+
+.right-item {
+  padding: 20px;
+  font-size: 30px;
+  font-family: "Pacifico", cursive;
+  font-family: "Dancing Script", cursive;
+
+  /* color: blue; */
+  /* background-color: red; */
+}
+
+#home {
+  margin-right: 20px;
+}
+
+a {
+  color: #000;
+  text-decoration: none;
+}
